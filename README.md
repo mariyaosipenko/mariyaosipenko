@@ -1,21 +1,28 @@
 # Осипенко Мария Ивановна
 
-## Обо мне
+mariyaosipenko@yandex.ru  
+[@MariyaIOsipenko](https://t.me/MariyaIOsipenko)  
+[Linkedin](https://www.linkedin.com/in/мария-осипенко-5026a635/)
+
 Бекенд разработчица: Go, PHP. Провожу митапы для сообществ CodeSisters и LivePhp
 
-## Контакты
+## Стек
+Go, Php, Symfony, Clickhouse, PostgreSQL, MySQL, Redis, Docker, Git
 
-mariyaosipenko@yandex.ru
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="50" title="Go" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50" title="PHP"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg" height="50" title="Symfony"/>&nbsp;
+<img src="https://raw.githubusercontent.com/ClickHouse/clickhouse-presentations/master/images/logo.png" height="50" title="Clickhouse"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="50" title="PostgreSQL"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" title="MySQL"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" height="50" title="Redis"/>&nbsp;
 
-[@MariyaIOsipenko](https://t.me/MariyaIOsipenko)
-
-[Linkedin](https://www.linkedin.com/in/мария-осипенко-5026a635/)
 
 ## Опыт работы
 
 ### CodeSisters, фриланс
 **DevRel**  
-_Май 2023 — август 2024_
+_Май 2023 — по настоящее время_
 
 Участие в хакатонах, организиация обучения, читальный клуб технической литературы, митапы, доклады, фриланс проекты на go
 
@@ -49,16 +56,6 @@ _Май 2018 — октябрь 2020_
 Php, Clickhouse, MariaDb, Docker, Redis
 
 
-## Стек
-Go, Php, Symfony, Clickhouse, PostgreSQL, MySQL, Redis, Docker, Git
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="50" title="Go" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50" title="PHP"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg" height="50" title="Symfony"/>&nbsp;
-<img src="https://raw.githubusercontent.com/ClickHouse/clickhouse-presentations/master/images/logo.png" height="50" title="Clickhouse"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="50" title="PostgreSQL"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" title="MySQL"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" height="50" title="Redis"/>&nbsp;
 
 
 ## Доклады
