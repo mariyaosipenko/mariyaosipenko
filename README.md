@@ -6,7 +6,6 @@ mariyaosipenko@yandex.ru
 
 Бекенд разработчица: Go, PHP. Провожу митапы для сообществ CodeSisters и LivePhp
 
-## Стек
 Go, Php, Symfony, Clickhouse, PostgreSQL, MySQL, Redis, Docker, Git
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="50" title="Go" />&nbsp;
