@@ -2,7 +2,6 @@
 
 mariyaosipenko@yandex.ru  
 [@MariyaIOsipenko](https://t.me/MariyaIOsipenko)  
-[Linkedin](https://www.linkedin.com/in/мария-осипенко-5026a635/)
 
 Бекенд разработчица: Go, PHP. Провожу митапы для сообществ CodeSisters и LivePhp
 
