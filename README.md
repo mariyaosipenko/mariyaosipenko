@@ -15,12 +15,19 @@ Go, Php, Symfony, Clickhouse, PostgreSQL, MySQL, Redis, Docker, Git
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" title="MySQL"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" height="50" title="Redis"/>&nbsp;
 
+## Опыт работы
+
+### Купер
+**Go разработчик**  
+_Август 2024 — январь 2025_
+
+Разрабатывала высоконагруженный сервис отвечающий за сменную работу персонала. Принимала архитектурные решения. Создавала solution design, technical discovery, являлась feature lead. Проясняла бизнес-требования. Организация кросс-командного взаимодействия (разработка интеграий). Прод мониторинг (дежурства).
 
 ## Опыт работы
 
 ### CodeSisters, фриланс
 **DevRel**  
-_Май 2023 — по настоящее время_
+_Май 2023 — июль 2024_
 
 Участие в хакатонах, организация обучения, читальный клуб технической литературы, митапы, доклады, фриланс проекты на go
 
